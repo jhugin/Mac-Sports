@@ -1,0 +1,1 @@
+My website will be a sports website focused on Fantasy football. It will incorporate articles about fantasy football, featured players, about page etc. 
